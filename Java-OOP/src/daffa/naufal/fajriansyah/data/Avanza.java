@@ -1,3 +1,4 @@
+// Implement Interface
 package daffa.naufal.fajriansyah.data;
 
 public class Avanza implements Car{

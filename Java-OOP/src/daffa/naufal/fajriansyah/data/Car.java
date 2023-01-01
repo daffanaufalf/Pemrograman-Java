@@ -1,3 +1,4 @@
+// Membuat Interface
 package daffa.naufal.fajriansyah.data;
 
 public interface Car {
