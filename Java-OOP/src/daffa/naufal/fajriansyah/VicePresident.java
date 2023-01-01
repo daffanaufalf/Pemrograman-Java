@@ -1,3 +1,5 @@
+package daffa.naufal.fajriansyah;
+
 class VicePresident extends Manager {
 
     VicePresident(String name) {
@@ -5,7 +7,7 @@ class VicePresident extends Manager {
     }
 
     // Method Overriding
-    void isHello(String name) {
+    void sayHello(String name) {
         System.out.println("Hello " + name + ", My Name is Vice President " + this.name);
     }
 

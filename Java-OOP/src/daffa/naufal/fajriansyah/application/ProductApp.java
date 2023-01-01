@@ -1,5 +1,7 @@
 // Access Modifier (2)
-package daffa.naufal.fajriansyah.data;
+package daffa.naufal.fajriansyah.application;
+
+import daffa.naufal.fajriansyah.data.Product;
 
 public class ProductApp {
     public static void main(String[] args) {

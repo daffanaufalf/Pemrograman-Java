@@ -1,11 +1,14 @@
+package daffa.naufal.fajriansyah;
+
+
 public class ManagerApp {
     public static void main(String[] args) {
 
         var manager = new Manager("Daffa");
-        manager.isHello("Gyan");
+        manager.sayHello("Gyan");
 
         var vp = new VicePresident("Akmal");
-        vp.isHello("Gyan");
+        vp.sayHello("Gyan");
 
         // Object Class
         System.out.println(manager);

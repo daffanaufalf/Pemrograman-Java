@@ -1,25 +1,27 @@
+package daffa.naufal.fajriansyah;
+
 public class PolymorphismApp {
     public static void main(String[] args) {
 
         // Polymorphism
         Employee employee = new Employee("Daffa");
-        employee.isHello("Gyan");
+        employee.sayHello("Gyan");
 
         employee = new Manager("Daffa");
-        employee.isHello("Gyan");
+        employee.sayHello("Gyan");
 
         employee = new VicePresident("Daffa");
-        employee.isHello("Gyan");
+        employee.sayHello("Gyan");
 
         // Method Polymorphism
-        isHello(new Employee("Daffa"));
-        isHello(new Manager("Gyan"));
-        isHello(new VicePresident("Akmal"));
+        sayHello(new Employee("Daffa"));
+        sayHello(new Manager("Gyan"));
+        sayHello(new VicePresident("Akmal"));
 
     }
 
     // Type Check & Casts
-    static void isHello(Employee employee){
+    static void sayHello(Employee employee){
         if (employee instanceof VicePresident) {
             VicePresident vicePresident = (VicePresident) employee;
             System.out.println("Hello Vice President " + vicePresident.name);

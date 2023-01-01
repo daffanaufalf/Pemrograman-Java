@@ -1,3 +1,5 @@
+package daffa.naufal.fajriansyah;
+
 public class ShapeApp {
     public static void main(String[] args) {
 

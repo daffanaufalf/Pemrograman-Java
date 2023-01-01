@@ -1,3 +1,5 @@
+package daffa.naufal.fajriansyah;
+
 class Shape {
 
     int getCorner() {

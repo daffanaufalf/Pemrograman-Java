@@ -1,3 +1,5 @@
+package daffa.naufal.fajriansyah;
+
 public class ParentApp {
     public static void main(String[] args) {
         //Variable Hiding

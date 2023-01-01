@@ -1,3 +1,5 @@
+package daffa.naufal.fajriansyah;
+
 public class Person {
     // Field
     String name;
@@ -5,13 +7,13 @@ public class Person {
     final String country = "Indonesia";
 
     // Constructor & Constructor Overloading
-    // Person(String paramName, String paramAddress) {
+    // daffa.naufal.fajriansyah.Person(String paramName, String paramAddress) {
     // name = paramName;
     // address = paramAddress;
     // }
 
     // Variable Shadowing
-    // Person(String name, String address) {
+    // daffa.naufal.fajriansyah.Person(String name, String address) {
     // name = name;
     // address = address;
     // }
@@ -30,7 +32,7 @@ public class Person {
         this(null);
     }
 
-    void isHello(String paramName) {
+    void sayHello(String paramName) {
         System.out.println("Hello " + paramName + ", My Name is " + this.name);
         // System.out.println("Hello " + paramName + ", My Name is " + name);
     }
