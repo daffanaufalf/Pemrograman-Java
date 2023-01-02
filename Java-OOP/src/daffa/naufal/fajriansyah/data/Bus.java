@@ -1,21 +1,23 @@
-// Implement Interface
 package daffa.naufal.fajriansyah.data;
 
-// Multiple Interface Inheritance
-public class Avanza implements Car{
+public class Bus implements Car {
     public void drive() {
-        System.out.println("Avanza Drive");
+        System.out.println("Bus Drive");
     }
 
     public int getTire() {
-       return 4;
+        return 8;
     }
 
     public String getBrand() {
-        return "Toyota";
+        return "Hino";
     }
 
     public boolean isMaintenance() {
         return false;
+    }
+
+    public boolean isBig() {
+        return Car.super.isBig();
     }
 }

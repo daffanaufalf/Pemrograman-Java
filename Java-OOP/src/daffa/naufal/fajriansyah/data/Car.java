@@ -1,8 +1,12 @@
 // Membuat Interface
 package daffa.naufal.fajriansyah.data;
 
-public interface Car {
+public interface Car extends HasBrand, IsMaintenance {
     void drive();
 
     int getTire();
+
+    default boolean isBig(){
+        return false;
+    }
 }
