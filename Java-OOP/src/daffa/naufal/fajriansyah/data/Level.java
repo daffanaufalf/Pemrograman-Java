@@ -1,5 +1,8 @@
 package daffa.naufal.fajriansyah.data;
 
+import daffa.naufal.fajriansyah.annotation.Fancy;
+
+@Fancy(name = "Level", tags = {"Application", "Java"})
 public enum Level {
     STANDARD("Standard Level"),
     PREMIUM("Premium Level"),

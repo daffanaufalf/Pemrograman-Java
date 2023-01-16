@@ -24,5 +24,6 @@ public class EnumApp {
         for (var value: Level.values()){
             System.out.println(value);
         }
+
     }
 }
