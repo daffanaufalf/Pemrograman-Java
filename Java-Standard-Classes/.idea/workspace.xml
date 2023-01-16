@@ -28,15 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PropertiesApp">
-    <configuration name="Base64App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="daffa.naufal.fajriansyah.classes.Base64App" />
+}</component>
+  <component name="RunManager" selected="Application.RegexApp">
+    <configuration name="ArraysApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daffa.naufal.fajriansyah.classes.ArraysApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UUIDApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="daffa.naufal.fajriansyah.classes.UUIDApp" />
+    <configuration name="RegexApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="daffa.naufal.fajriansyah.classes.RegexApp" />
       <module name="Java-Standard-Classes" />
       <extension name="coverage">
         <pattern>
@@ -101,19 +101,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Base64App" />
+      <item itemvalue="Application.ArraysApp" />
+      <item itemvalue="Application.RegexApp" />
       <item itemvalue="Application.ObjectsApp" />
       <item itemvalue="Application.PropertiesApp" />
       <item itemvalue="Application.RandomApp" />
-      <item itemvalue="Application.UUIDApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegexApp" />
+        <item itemvalue="Application.ArraysApp" />
         <item itemvalue="Application.PropertiesApp" />
         <item itemvalue="Application.RandomApp" />
         <item itemvalue="Application.ObjectsApp" />
-        <item itemvalue="Application.Base64App" />
-        <item itemvalue="Application.UUIDApp" />
       </list>
     </recent_temporary>
   </component>
