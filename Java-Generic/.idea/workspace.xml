@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c296a2e-20f2-4cd6-8f13-1884004104db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Generic/daffa/naufal/fajriansyah/generic/application/ContravariantApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Generic/daffa/naufal/fajriansyah/generic/application/CovariantApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java-Generic/daffa/naufal/fajriansyah/generic/application/InvariantApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daffa/naufal/fajriansyah/generic/application/ContravariantApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daffa/naufal/fajriansyah/generic/application/CovariantApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daffa/naufal/fajriansyah/generic/application/InvariantApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Generic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Generic/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
