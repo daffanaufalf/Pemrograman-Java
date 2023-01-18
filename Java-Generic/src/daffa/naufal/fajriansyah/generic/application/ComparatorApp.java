@@ -11,7 +11,7 @@ public class ComparatorApp {
         Person[] people = {
                 new Person("Daffa", "Indonesia"),
                 new Person("Akmal", "Indonesia"),
-                new Person("Gugul", "Indonesia")
+                new Person("Heryadi", "Indonesia")
         };
 
         Comparator<Person> comparator = new Comparator<Person>() {
