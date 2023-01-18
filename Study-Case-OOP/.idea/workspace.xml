@@ -32,13 +32,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Playground/Pemrograman-Java/Java-Collection"
+    "last_opened_file_path": "D:/Playground/Pemrograman-Java/Study-Case"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Study-Case" />
+      <module name="Study-Case-OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

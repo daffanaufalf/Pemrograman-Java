@@ -8,7 +8,7 @@ public class Main {
         Player player1 = new Player("Gugul", 100);
         Player player2 = new Player("Onyon", 50);
 
-        Weapon sword = new Weapon("Enma Sword", 15);
+        Weapon sword = new Weapon("Shuushui Sword", 15);
         Weapon knife = new Weapon("Kitchen Knife", 1);
 
         Armor bladeArmor = new Armor("Silver Blade Armor", 10);
