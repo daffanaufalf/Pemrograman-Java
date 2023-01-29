@@ -12,7 +12,7 @@ public class App
     {
         Gson gson = new Gson();
 
-        Person person = new Person("Daffa Naufal Fajriansyah");
+        Person person = new Person("Daffa Naufal F");
         String json = gson.toJson(person);
 
         System.out.println(json);
