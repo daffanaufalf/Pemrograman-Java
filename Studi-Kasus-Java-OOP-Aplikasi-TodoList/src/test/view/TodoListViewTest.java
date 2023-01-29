@@ -19,6 +19,7 @@ public class TodoListViewTest {
         todoListService.addTodoList("Belajar Java Dasar");
         todoListService.addTodoList("Belajar Java OOP");
         todoListService.addTodoList("Belajar Java Standard Classes");
+        todoListService.addTodoList("Belajar Java Generic");
 
         todoListView.showTodoList();
     }
