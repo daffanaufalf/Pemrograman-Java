@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f334fe08-3339-478c-becb-0a05e45a6dc4" name="Changes" comment="" />
+    <list default="true" id="f334fe08-3339-478c-becb-0a05e45a6dc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/daffa/naufal/fajriansyah/test/generator/SimpleDisplayNameGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/daffa/naufal/fajriansyah/test/generator/SimpleDisplayNameGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/daffa/naufal/fajriansyah/test/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/daffa/naufal/fajriansyah/test/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/daffa/naufal/fajriansyah/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/daffa/naufal/fajriansyah/test/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/daffa/naufal/fajriansyah/test/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/daffa/naufal/fajriansyah/test/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-daffa.naufal.fajriansyah.test.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-daffa.naufal.fajriansyah.test.CalculatorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/daffa.naufal.fajriansyah.test.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/daffa.naufal.fajriansyah.test.CalculatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/daffa/naufal/fajriansyah/test/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/daffa/naufal/fajriansyah/test/CalculatorTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,20 +51,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Playground/Pemrograman-Java/Java-Unit-Test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Playground/Pemrograman-Java/Java-Unit-Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Unit-Test" />
@@ -65,7 +77,11 @@
       </extension>
       <option name="PACKAGE_NAME" value="daffa.naufal.fajriansyah.test" />
       <option name="MAIN_CLASS_NAME" value="daffa.naufal.fajriansyah.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="PROFILE" value="DEV" />
+      </envs>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,7 +100,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676364007897</updated>
-      <workItem from="1676364009587" duration="2245000" />
+      <workItem from="1676364009587" duration="3030000" />
+      <workItem from="1676374923824" duration="2176000" />
+      <workItem from="1676397144167" duration="2756000" />
+      <workItem from="1676634767648" duration="636000" />
+      <workItem from="1676906715582" duration="1737000" />
     </task>
     <servers />
   </component>
