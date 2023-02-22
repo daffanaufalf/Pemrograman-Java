@@ -73,7 +73,6 @@ public class CalculatorTest {
         assumeTrue("DEV".equals(System.getenv("PROFILE")));
 
         // unit test untuk DEV
-        // Belum di push
     }
 
 }
